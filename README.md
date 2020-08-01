@@ -1,4 +1,6 @@
-# Why do people share?
+# Sharing
+
+## Why do people share?
 
 
 1. Nobody knows everything.
