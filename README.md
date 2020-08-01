@@ -1,5 +1,3 @@
-# Sharing
-
 ## Why do people share?
 
 
