@@ -1,3 +1,3 @@
 # sharing
 
-what is sharing?
+why do people share?
